@@ -78,9 +78,6 @@ A list of humble games I don't want
 * [Monster Prom](https://store.steampowered.com/app/743450/Monster_Prom/)
 * [Mr. Shifty](https://store.steampowered.com/app/489140/Mr_Shifty/)
 
-## O
-* [>observer_](https://store.steampowered.com/app/514900/observer/)
-
 ## P
 * [Paper Fire Rookie](https://store.steampowered.com/app/698790/PAPER_FIRE_ROOKIE_Formerly_Paperville_Panic/)
 * [Paperbark](https://store.steampowered.com/app/916900/Paperbark/)
